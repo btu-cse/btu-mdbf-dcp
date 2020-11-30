@@ -1,0 +1,139 @@
+#messages{
+    height: 35px;
+}
+#message{
+    margin: 15px 0 15px;
+}
+#secondaryButtonContainer{
+    margin-top: 10px;
+    clear: left;
+}
+#edit-delete-icon{
+    width: 12px;
+    height: 12px;
+}
+.deleteLecture{
+    position: relative;
+    float: left;
+    margin-right: 2px;
+}
+.deleteLectureDiv{
+    width: 10px;
+    height: 10px;
+    background-image: url(../icons/delete_icon.png);
+    background-size: 10px 10px;
+}
+.editLecture{
+    position: relative;
+    float: left;
+}
+.editLectureDiv{
+    width: 10px;
+    height: 10px;
+    background-image: url(../icons/edit_icon.png);
+    background-size: 10px 10px;
+}
+#filter1, #filter2{
+    position: relative;
+}
+#filters{
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+#calendar{
+    float: left;
+}
+.my-legend .legend-title {
+    text-align: left;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 90%;
+}
+.my-legend .legend-scale ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+}
+.my-legend .legend-scale ul li {
+    display: block;
+    float: left;
+    width: 80px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 80%;
+    list-style: none;
+}
+.my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 15px;
+    width: 80px;
+}
+.my-legend .legend-source {
+    font-size: 70%;
+    color: #999;
+    clear: both;
+}
+.my-legend a {
+    color: #777;
+}
+.my-legend{
+    float: right;
+}
+.weekDiv, .last{
+    margin-bottom: 10px;
+}
+.element{
+    display: block;
+    float: left;
+    width: 300px;
+}
+.element2{
+    display: block;
+    float: left;
+}
+.element select{
+    width: 250px;
+}
+.weekDiv select{
+    width: 120px;
+}
+.firstInRow{
+    clear: left;
+}
+.datetimeElements{
+    width: 140px;
+}
+.datetimeElements input{
+    width: 100px;
+}
+#semesterFilter{
+    width: 120px;
+}
+.groupsName{
+    margin-bottom: 10px;
+}
+.grey{
+    background-color: #EDEDED;
+}
+.white{
+    background-color: white;
+}
+.widefat td, .widefat th{
+    padding: 2px 5px;
+}
+.bullets{
+    list-style: disc;
+    padding-left: 50px;
+}
+.bold-th th{
+    font-weight: 600;
+}
+table{
+    margin: 0em;
+}
+#loadingImg{
+    width: 22px;
+    height: 22px;
+}

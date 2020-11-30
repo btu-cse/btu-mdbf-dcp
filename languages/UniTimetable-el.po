@@ -1,0 +1,1271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UniTimetable\n"
+"POT-Creation-Date: 2015-07-17 01:42+0200\n"
+"PO-Revision-Date: 2015-09-07 13:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: UniTimetable.php:257 teachersFunctions.php:17 teachersFunctions.php:31
+msgid "Insert Teacher"
+msgstr "Εισαγωγή Καθηγητή"
+
+#: UniTimetable.php:257
+msgid "Teachers"
+msgstr "Καθηγητές"
+
+#: UniTimetable.php:260 periodsFunctions.php:17 periodsFunctions.php:30
+msgid "Insert Period"
+msgstr "Εισαγωγή Περιόδου"
+
+#: UniTimetable.php:260
+msgid "Periods"
+msgstr "Περίοδοι"
+
+#: UniTimetable.php:263 subjectsFunctions.php:19 subjectsFunctions.php:34
+msgid "Insert Subject"
+msgstr "Εισαγωγή Μαθήματος "
+
+#: UniTimetable.php:263
+msgid "Subjects"
+msgstr "Μαθήματα"
+
+#: UniTimetable.php:266 classroomsFunctions.php:17 classroomsFunctions.php:30
+msgid "Insert Classroom"
+msgstr "Εισαγωγή Αίθουσας "
+
+#: UniTimetable.php:266
+msgid "Classrooms"
+msgstr "Αίθουσες"
+
+#: UniTimetable.php:269 groupsFunctions.php:19 groupsFunctions.php:33
+msgid "Insert Group"
+msgstr "Εισαγωγή Ομάδας "
+
+#: UniTimetable.php:269
+msgid "Groups"
+msgstr "Ομάδες"
+
+#: UniTimetable.php:272 holidaysFunctions.php:16 holidaysFunctions.php:32
+msgid "Insert Holiday"
+msgstr "Εισαγωγή Αργίας "
+
+#: UniTimetable.php:272 lecturesFunctions.php:175
+msgid "Holidays"
+msgstr "Αργίες"
+
+#: UniTimetable.php:275 eventsFunctions.php:22 eventsFunctions.php:42
+msgid "Insert Event"
+msgstr "Εισαγωγή Συμβάντος"
+
+#: UniTimetable.php:275 lecturesFunctions.php:176
+msgid "Events"
+msgstr "Συμβάντα"
+
+#: UniTimetable.php:278 lecturesFunctions.php:24 lecturesFunctions.php:52
+msgid "Insert Lecture"
+msgstr "Εισαγωγή Διδασκαλίας"
+
+#: UniTimetable.php:278
+msgid "Lectures"
+msgstr "Διδασκαλίες"
+
+#: UniTimetable.php:296
+msgid "Main Page of UniTimetable Plugin"
+msgstr "Κεντρική Σελίδα του Plugin UniTimetable"
+
+#: UniTimetable.php:297
+msgid "Select Language"
+msgstr "Επιλογή Γλώσσας"
+
+#: UniTimetable.php:300
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: UniTimetable.php:301
+msgid "English"
+msgstr "Αγγλικά"
+
+#: UniTimetable.php:305
+msgid "About"
+msgstr "Πληροφορίες"
+
+#: UniTimetable.php:307
+msgid ""
+"<strong>UniTimetable</strong> is a WordPress plugin for presenting "
+"timetables of an educational institute. It includes teachers, classrooms, "
+"subjects (modules) and student groups, which are all combined to define "
+"lectures. The lectures can be scheduled at some time point during a "
+"semester. Out of schedule events and holidays are also supported. After "
+"providing the plugin with data, shortcodes provided (see below) generate "
+"beautiful calendars with all or selected part of the entered data. "
+"<strong>UniTimetable</strong> was designed by <a href='https://www."
+"researchgate.net/profile/Fotis_Kokkoras'>Fotis Kokkoras</a> and <a "
+"href='https://www.linkedin.com/pub/antonis-roussos/47/25b/9a5'>Antonis "
+"Roussos</a> and implemented by <a href='https://www.linkedin.com/pub/antonis-"
+"roussos/47/25b/9a5'>Antonis Roussos</a> for the fulfillment of his BSc "
+"Thesis in the <a href'http://www.cs.teilar.gr/CS/Home.jsp'>Department of "
+"Computer Science and Engineering (TEI of Thessaly, Greece)</a>."
+msgstr ""
+"Το <strong>UniTimetable</strong> είναι ένα WordPress plugin για εμφάνιση "
+"προγράμματος ενός εκπαιδευτικού ιδρύματος. Περιλαμβάνει καθηγητές, μαθήματα "
+"(ενότητες) και ομάδες φοιτητών, που είναι όλα συνδιασμένα για τον ορισμό "
+"διδασκαλιών. Οι διδασκαλίες μπορούν να προγραμματιστούν σε κάποιο χρονικό "
+"διάστημα κατά τη διάρκεια ενός εξαμήνου. Στο πρόγραμμα υποστηρίζονται ακόμα "
+"συμβάντα και αργίες . Μετά τον εφοδιασμό του Plugin με δεδομένα, τα "
+"shortcodes που παρέχονται (δείτε παρακάτω) παράγουν όμορφα ημερολόγια με "
+"όλα, ή επιλεγμένα δεδομένα. Το <strong>UniTimetable</strong> σχεδιάστηκε από "
+"τον <a href='https://www.researchgate.net/profile/Fotis_Kokkoras'>Φώτη "
+"Κόκκορα</a> και τον <a href='https://www.linkedin.com/pub/antonis-"
+"roussos/47/25b/9a5'>Αντώνη Ρούσσο</a> και αναπτύχθηκε επό τον <a "
+"href='https://www.linkedin.com/pub/antonis-roussos/47/25b/9a5'>Αντώνη "
+"Ρούσσο</a> για την εκπλήρωση της πτυχιακής του εργασίας στο <a href'http://"
+"www.cs.teilar.gr/CS/Home.jsp'>Τμήμα Μηχανικών Πληροφορικής (ΤΕΙ Θεσσαλίας, "
+"Ελλάδα)</a>."
+
+#: UniTimetable.php:309
+msgid "How to use the Shortcodes"
+msgstr "Πως να χρησιμοποιήσετε τα Shortcodes"
+
+#: UniTimetable.php:310
+msgid ""
+"<p>The general purpose shortcode is <strong>[utt_calendar]</strong> and "
+"should be better placed in a page (or post) with substantial width. The "
+"resulting calendar includes two filter combo-boxes for selecting individual "
+"calendars for any of the semester, classroom, and teacher.</p><p>In case "
+"that a fixed calendar is required, parameters can be added to precisely "
+"define the content to be displayed. More specifically:</p><ul "
+"class='bullets'><li>[utt_calendar classroom = &lt;comma separated "
+"classroomID list&gt;]   (examples: [utt_calendar classroom=1], [utt_calendar "
+"classroom=1,2,3])</li><li>[utt_calendar teacher = &lt;comma separated "
+"teacherID list&gt;]</li><li>[utt_calendar semester = &lt;comma separated "
+"semester list&gt;]</li></ul><p>Note that the filtered shortcodes generate a "
+"calendar without the usual filter combo-boxes.</p>"
+msgstr ""
+"<p>Το shortcode γενικής χρήσης είναι το <strong>[utt_calendar]</strong> και "
+"είναι κατάλληλο για να τοποθετηθεί σε μία σελίδα (ή post) με μεγάλο μήκος. "
+"Το τελικό ημερολόγιο περιλαμβάνει δύο φίλτρα combo-box για επιλογή "
+"μεμονομένων ημερολογίων για κάθε εξάμηνο, αίθουσα και καθηγητή.</p><p>Σε "
+"περίπτωση που χρειάζεται κάποιο σταθερό ημερολόγιο, μπορούν να προστεθούν "
+"παράμετροι που ορίζουν ακριβός το περιεχόμενο που θα εμφανιστεί. Πιο "
+"συγκεκριμένα:</p><ul class='bullets'><li>[utt_calendar classroom = &lt;λίστα "
+"από ID αιθουσών διαχωρισμένη με κόμμα&gt;]   (π.χ. [utt_calendar "
+"classroom=1], [utt_calendar classroom=1,2,3])</li><li>[utt_calendar teacher "
+"= &lt;λίστα από ID καθηγητών διαχωρισμένη με κόμμα&gt;]</"
+"li><li>[utt_calendar semester = &lt;λίστα από εξάμηνα διαχωρισμένη με "
+"κόμμα&gt;]</li></ul><p>Σημειώστε ότι τα φιλτραρισμένα shortcode παράγουν ένα "
+"ημερολόγιο χωρίς τα φίλτρα combo-box.</p>"
+
+#: UniTimetable.php:313
+msgid "Database Records"
+msgstr "Εγγραφές Βάσης Δεδομένων"
+
+#: UniTimetable.php:315
+msgid "Teachers:"
+msgstr "Καθηγητές:"
+
+#: UniTimetable.php:315 UniTimetable.php:317 UniTimetable.php:319
+#: UniTimetable.php:321 UniTimetable.php:323 UniTimetable.php:325
+#: UniTimetable.php:327 UniTimetable.php:329
+msgid "Records"
+msgstr "Εγγραφές"
+
+#: UniTimetable.php:317
+msgid "Periods:"
+msgstr "Περίοδοι:"
+
+#: UniTimetable.php:319
+msgid "Subjects:"
+msgstr "Μαθήματα:"
+
+#: UniTimetable.php:321
+msgid "Classrooms:"
+msgstr "Αίθουσες:"
+
+#: UniTimetable.php:323
+msgid "Groups:"
+msgstr "Ομάδες:"
+
+#: UniTimetable.php:325
+msgid "Holidays:"
+msgstr "Αργίες:"
+
+#: UniTimetable.php:327
+msgid "Events:"
+msgstr "Συμβάντα:"
+
+#: UniTimetable.php:329
+msgid "Lectures:"
+msgstr "Διδασκαλίες:"
+
+#: calendarShortcode.php:16 lecturesFunctions.php:26
+msgid "en"
+msgstr "el"
+
+#: calendarShortcode.php:25 lecturesFunctions.php:183
+msgid "View per:"
+msgstr "Προβολή ανά:"
+
+#: calendarShortcode.php:27 lecturesFunctions.php:185 periodsFunctions.php:69
+#: periodsFunctions.php:76 subjectsFunctions.php:163 subjectsFunctions.php:172
+msgid "Semester"
+msgstr "Εξάμηνο"
+
+#: calendarShortcode.php:28 lecturesFunctions.php:186
+msgid "Teacher"
+msgstr "Καθηγητή"
+
+#: calendarShortcode.php:29 eventsFunctions.php:142 eventsFunctions.php:154
+#: lecturesFunctions.php:187
+msgid "Classroom"
+msgstr "Αίθουσα"
+
+#: calendarShortcode.php:34
+msgid "Select"
+msgstr "Επιλογή"
+
+#: calendarShortcode.php:126 groupsFunctions.php:242 groupsFunctions.php:341
+#: lecturesFunctions.php:253 lecturesFunctions.php:385
+#: subjectsFunctions.php:191
+msgid "T"
+msgstr "Θ"
+
+#: calendarShortcode.php:128 groupsFunctions.php:244 groupsFunctions.php:343
+#: lecturesFunctions.php:255 lecturesFunctions.php:387
+#: subjectsFunctions.php:193
+msgid "L"
+msgstr "Ε"
+
+#: calendarShortcode.php:130 groupsFunctions.php:246 groupsFunctions.php:345
+#: lecturesFunctions.php:257 lecturesFunctions.php:389
+#: subjectsFunctions.php:195
+msgid "PE"
+msgstr "ΑΠ"
+
+#: calendarShortcode.php:183 eventsFunctions.php:48 eventsFunctions.php:179
+#: lecturesFunctions.php:439
+msgid "Thesis"
+msgstr "Πτυχιακή"
+
+#: calendarShortcode.php:186 eventsFunctions.php:49 eventsFunctions.php:182
+#: lecturesFunctions.php:442
+msgid "Speech"
+msgstr "Ομιλία"
+
+#: calendarShortcode.php:189 eventsFunctions.php:50 eventsFunctions.php:185
+#: lecturesFunctions.php:445
+msgid "Presentation"
+msgstr "Παρουσίαση"
+
+#: calendarShortcode.php:192 eventsFunctions.php:51 eventsFunctions.php:188
+#: lecturesFunctions.php:448
+msgid "Students Team"
+msgstr "Ομάδα Φοιτητών"
+
+#: calendarShortcode.php:195 eventsFunctions.php:52 eventsFunctions.php:191
+#: lecturesFunctions.php:451
+msgid "Graduation"
+msgstr "Ορκωμοσία"
+
+#: calendarShortcode.php:221 classroomsFunctions.php:38 eventsFunctions.php:47
+#: eventsFunctions.php:64 groupsFunctions.php:39 groupsFunctions.php:60
+#: groupsFunctions.php:74 groupsFunctions.php:121 groupsFunctions.php:331
+#: lecturesFunctions.php:66 lecturesFunctions.php:81 lecturesFunctions.php:95
+#: lecturesFunctions.php:104 lecturesFunctions.php:114
+#: lecturesFunctions.php:128 lecturesFunctions.php:192
+#: lecturesFunctions.php:221 lecturesFunctions.php:243
+#: lecturesFunctions.php:496 periodsFunctions.php:38 subjectsFunctions.php:44
+#: subjectsFunctions.php:53
+msgid "- select -"
+msgstr "- επιλογή -"
+
+#: classroomsFunctions.php:8 eventsFunctions.php:8 groupsFunctions.php:8
+#: holidaysFunctions.php:8 lecturesFunctions.php:8 periodsFunctions.php:8
+#: subjectsFunctions.php:8 teachersFunctions.php:8
+msgid "Delete is forbidden while completing the form!"
+msgstr "Δεν επιτρέπετε η διαγραφή ενώ συμπληρώνετε τη φόρμα!"
+
+#: classroomsFunctions.php:9
+msgid "Are you sure that you want to delete this Classroom?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την Αίθουσα;"
+
+#: classroomsFunctions.php:10
+msgid "Classroom deleted successfully!"
+msgstr "Η Αίθουσα διαγράφτηκε επιτυχώς!"
+
+#: classroomsFunctions.php:11
+msgid ""
+"Failed to delete Classroom. Check if Classroom is used by a Lecture or Event."
+msgstr ""
+"Αποτυχία διαγραφής Αίθουσας. Ελέγξτε εάν η Αίθουσα χρησιμοποιείται από "
+"κάποια Διδασκαλία ή Συμβάν."
+
+#: classroomsFunctions.php:12 eventsFunctions.php:12 groupsFunctions.php:12
+#: holidaysFunctions.php:11 lecturesFunctions.php:12 periodsFunctions.php:12
+#: subjectsFunctions.php:12 teachersFunctions.php:12
+msgid "Edit is forbidden while completing the form!"
+msgstr "Δεν επιτρέπετε η επεξεργασία ενώ συμπληρώνετε τη φόρμα."
+
+#: classroomsFunctions.php:13
+msgid "Edit Classroom"
+msgstr "Επεξεργασία Αίθουσας"
+
+#: classroomsFunctions.php:14 eventsFunctions.php:14 groupsFunctions.php:14
+#: holidaysFunctions.php:13 lecturesFunctions.php:14 periodsFunctions.php:14
+#: subjectsFunctions.php:14 teachersFunctions.php:14
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: classroomsFunctions.php:15
+msgid "Classroom name is required. Please avoid using special characters."
+msgstr ""
+"Το όνομα Αίθουσας είναι υποχρεωτικό. Παρακαλώ αποφύγετε τους ειδικούς "
+"χαρακτήρες."
+
+#: classroomsFunctions.php:16
+msgid "Please select Classroom type."
+msgstr "Παρακαλώ επιλέξτε τύπο Αίθουσας."
+
+#: classroomsFunctions.php:18 classroomsFunctions.php:45
+#: eventsFunctions.php:23 eventsFunctions.php:92 groupsFunctions.php:20
+#: groupsFunctions.php:107 holidaysFunctions.php:17 holidaysFunctions.php:43
+#: lecturesFunctions.php:25 lecturesFunctions.php:166 periodsFunctions.php:18
+#: periodsFunctions.php:45 subjectsFunctions.php:20 subjectsFunctions.php:67
+#: teachersFunctions.php:18 teachersFunctions.php:42
+msgid "Reset"
+msgstr "Καθαρισμός"
+
+#: classroomsFunctions.php:19
+msgid "Failed to add Classroom. Check if Classroom already exists."
+msgstr "Αποτυχία εισαγωγής Αίθουσας. Ελέγξτε εάν η Αίθουσα υπάρχει ήδη."
+
+#: classroomsFunctions.php:20
+msgid "Classroom successfully added!"
+msgstr "Η Αίθουσα προστέθηκε επιτυχώς!"
+
+#: classroomsFunctions.php:21
+msgid "Failed to edit Classroom. Check if Classroom already exists."
+msgstr "Αποτυχία επεξεργασίας Αίθουσας. Ελέγξτε εάν η Αίθουσα υπάρχει ήδη."
+
+#: classroomsFunctions.php:22
+msgid "Classroom successfully edited!"
+msgstr "Η Αίθουσα επεξεργάστηκε επιτυχώς!"
+
+#: classroomsFunctions.php:33
+msgid "Classroom name:"
+msgstr "Όνομα Αίθουσας:"
+
+#: classroomsFunctions.php:34 eventsFunctions.php:55 holidaysFunctions.php:36
+#: subjectsFunctions.php:39 teachersFunctions.php:35
+msgid "Required"
+msgstr "Απαιτείται"
+
+#: classroomsFunctions.php:36
+msgid "Classroom type:"
+msgstr "Τύπος Αίθουσας"
+
+#: classroomsFunctions.php:39 classroomsFunctions.php:97
+#: eventsFunctions.php:68 lecturesFunctions.php:132
+msgid "Lecture"
+msgstr "Διαλέξεων"
+
+#: classroomsFunctions.php:40 classroomsFunctions.php:99
+#: eventsFunctions.php:70 lecturesFunctions.php:134
+msgid "Laboratory"
+msgstr "Εργαστηρίου"
+
+#: classroomsFunctions.php:44 eventsFunctions.php:91 groupsFunctions.php:106
+#: holidaysFunctions.php:42 lecturesFunctions.php:165 periodsFunctions.php:44
+#: subjectsFunctions.php:66 teachersFunctions.php:41
+msgid "Submit"
+msgstr "Καταχώρηση"
+
+#: classroomsFunctions.php:71 classroomsFunctions.php:79
+#: teachersFunctions.php:70 teachersFunctions.php:78
+msgid "Name"
+msgstr "Όνομα"
+
+#: classroomsFunctions.php:72 classroomsFunctions.php:80
+#: eventsFunctions.php:139 eventsFunctions.php:151 subjectsFunctions.php:162
+#: subjectsFunctions.php:171
+msgid "Type"
+msgstr "Τύπος"
+
+#: classroomsFunctions.php:73 classroomsFunctions.php:81
+#: eventsFunctions.php:145 eventsFunctions.php:157 groupsFunctions.php:219
+#: groupsFunctions.php:226 holidaysFunctions.php:89 holidaysFunctions.php:96
+#: periodsFunctions.php:70 periodsFunctions.php:77 subjectsFunctions.php:165
+#: subjectsFunctions.php:174 teachersFunctions.php:71 teachersFunctions.php:79
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: classroomsFunctions.php:103 eventsFunctions.php:200 groupsFunctions.php:250
+#: holidaysFunctions.php:115 periodsFunctions.php:99 subjectsFunctions.php:199
+#: teachersFunctions.php:95
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: classroomsFunctions.php:104 eventsFunctions.php:201 groupsFunctions.php:251
+#: holidaysFunctions.php:116 periodsFunctions.php:100
+#: subjectsFunctions.php:200 teachersFunctions.php:95
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: eventsFunctions.php:9
+msgid "Are you sure that you want to delete this Event?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτό το Συμβάν;"
+
+#: eventsFunctions.php:10
+msgid "Event deleted successfully!"
+msgstr "Το Συμβάν διαγράφτηκε επιτυχώς!"
+
+#: eventsFunctions.php:11
+msgid "Failed to delete Event."
+msgstr "Αποτυχία διαγραφής Συμβάντος."
+
+#: eventsFunctions.php:13
+msgid "Edit Event"
+msgstr "Επεξεργασία Συμβάντος"
+
+#: eventsFunctions.php:15
+msgid "Please choose an Event type."
+msgstr "Παρακαλώ επιλέξτε τύπο Συμβάντος."
+
+#: eventsFunctions.php:16
+msgid "Event title is required."
+msgstr "Ο τίτλος Συμβάντος είναι υποχρεωτικός."
+
+#: eventsFunctions.php:17
+msgid "Please select a Classroom."
+msgstr "Παρακαλώ επιλέξτε Αίθουσα."
+
+#: eventsFunctions.php:18 lecturesFunctions.php:20
+msgid "Invalid date."
+msgstr "Μη έγκυρη ημερομηνία!"
+
+#: eventsFunctions.php:19 lecturesFunctions.php:21
+msgid "Invalid start time."
+msgstr "Μη έγκυρη Ώρα έναρξης."
+
+#: eventsFunctions.php:20 lecturesFunctions.php:22
+msgid "Invalid end time."
+msgstr "Μη έγκυρη Ώρα λήξης."
+
+#: eventsFunctions.php:21 lecturesFunctions.php:23
+msgid "Start time cannot be after end time."
+msgstr "Η Ώρα έναρξης δεν μπορεί να είναι μετά την ώρα λήξης."
+
+#: eventsFunctions.php:24
+msgid "Failed to insert Event. Check if Classroom is used."
+msgstr ""
+"Αποτυχία εισαγωγής Συμβάντος. Ελέγξτε εάν η Αίθουσα χρησημοποιείται ήδη."
+
+#: eventsFunctions.php:25
+msgid "Event inserted successfully!"
+msgstr "Το Συμβάν προστέθηκε επιτυχώς!"
+
+#: eventsFunctions.php:26
+msgid "Failed to edit Event. Check if Classroom is used."
+msgstr ""
+"Αποτυχία επεξεργασίας Συμβάντος. Ελέγξτε εάν η Αίθουσα χρησιμοποιείται ήδη."
+
+#: eventsFunctions.php:27
+msgid "Event edited successfully!"
+msgstr "Το Συμβάν επεξεργάστηκε επιτυχώς!"
+
+#: eventsFunctions.php:45
+msgid "Event type:"
+msgstr "Τύπος Συμβάντος:"
+
+#: eventsFunctions.php:54
+msgid "Event title:"
+msgstr "Τίτλος Συμβάντος:"
+
+#: eventsFunctions.php:56
+msgid "Event description:"
+msgstr "Περιγραφή Συμβάντος:"
+
+#: eventsFunctions.php:59 lecturesFunctions.php:122
+msgid "Classroom:"
+msgstr "Αίθουσα:"
+
+#: eventsFunctions.php:79 holidaysFunctions.php:38 lecturesFunctions.php:142
+msgid "Date:"
+msgstr "Ημερομηνία:"
+
+#: eventsFunctions.php:83 lecturesFunctions.php:147
+msgid "Start time:"
+msgstr "Ώρα έναρξης:"
+
+#: eventsFunctions.php:87 lecturesFunctions.php:151
+msgid "End time:"
+msgstr "Ώρα λήξης:"
+
+#: eventsFunctions.php:97
+msgid "Events of Year:"
+msgstr "Συμβάντα του Έτους:"
+
+#: eventsFunctions.php:100 groupsFunctions.php:149 holidaysFunctions.php:52
+#: subjectsFunctions.php:75
+msgid "All"
+msgstr "Όλα"
+
+#: eventsFunctions.php:138 eventsFunctions.php:150 holidaysFunctions.php:87
+#: holidaysFunctions.php:94
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: eventsFunctions.php:140 eventsFunctions.php:152
+msgid "Title"
+msgstr "Τίτλος"
+
+#: eventsFunctions.php:141 eventsFunctions.php:153
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: eventsFunctions.php:143 eventsFunctions.php:155
+msgid "Start time"
+msgstr "Ώρα έναρξης"
+
+#: eventsFunctions.php:144 eventsFunctions.php:156
+msgid "End time"
+msgstr "Ώρα λήξης"
+
+#: groupsFunctions.php:9
+msgid "Are you sure that you want to delete this Group?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την Ομάδα;"
+
+#: groupsFunctions.php:10
+msgid "Group deleted successfully!"
+msgstr "Η Ομάδα διαγράφτηκε επιτυχώς!"
+
+#: groupsFunctions.php:11
+msgid "Failed to delete Group. Check if Group is used by a Lecture."
+msgstr ""
+"Αποτυχία διαγραφής της Ομάδας. Ελέγξτε εάν η Ομάδα είναι συνδεδεμένη με "
+"κάποια Διδασκαλία."
+
+#: groupsFunctions.php:13
+msgid "Edit Group"
+msgstr "Επεξεργασία Ομάδας"
+
+#: groupsFunctions.php:15
+msgid "Please select a Period."
+msgstr "Παρακαλώ επιλέξτε Περίοδο."
+
+#: groupsFunctions.php:16
+msgid "Please select Semester."
+msgstr "Παρακαλώ επιλέξτε Εξάμηνο."
+
+#: groupsFunctions.php:17
+msgid "Please select Subject."
+msgstr "Παρακαλώ επιλέξτε Μάθημα."
+
+#: groupsFunctions.php:18
+msgid "Please avoid using special characters and do not use long names."
+msgstr ""
+"Παρακαλώ αποφύγετε τους ειδικούς χαρακτήρες και μην χρησημοποιείτε μεγάλα "
+"ονόματα."
+
+#: groupsFunctions.php:21 groupsFunctions.php:92 groupsFunctions.php:218
+#: groupsFunctions.php:225
+msgid "Group"
+msgstr "Ομάδα"
+
+#: groupsFunctions.php:22
+msgid ""
+"Failed to add Groups. Check if there are another Groups with the same "
+"attributes."
+msgstr ""
+"Αποτυχία εισαγωγής Ομάδας. Ελέγξτε εάν υπάρχουν άλλες ομάδες με τα ίδια "
+"χαρακτηριστικά."
+
+#: groupsFunctions.php:23
+msgid "Groups added successfully!"
+msgstr "Οι Ομάδες προστέθηκαν επιτυχώς!"
+
+#: groupsFunctions.php:24
+msgid ""
+"Failed to edit Group. Check if there is another Group with the same "
+"attributes."
+msgstr ""
+"Η επεξεργασία Ομάδας απέτυχε, ελέγξτε εάν υπάρχει ήδη Ομάδα με τα ίδια "
+"χαρακτηριστικά."
+
+#: groupsFunctions.php:25
+msgid "Group successfully edited!"
+msgstr "Η Ομάδα επεξεργάστηκε επιτυχώς!"
+
+#: groupsFunctions.php:37 groupsFunctions.php:114 lecturesFunctions.php:59
+msgid "Period:"
+msgstr "Περίοδος:"
+
+#: groupsFunctions.php:48 groupsFunctions.php:137 lecturesFunctions.php:69
+#: periodsFunctions.php:95
+msgid "W"
+msgstr "Χ"
+
+#: groupsFunctions.php:50 groupsFunctions.php:139 lecturesFunctions.php:71
+#: periodsFunctions.php:93
+msgid "S"
+msgstr "Ε"
+
+#: groupsFunctions.php:58 groupsFunctions.php:147 periodsFunctions.php:36
+#: subjectsFunctions.php:51
+msgid "Semester:"
+msgstr "Εξάμηνο:"
+
+#: groupsFunctions.php:70 lecturesFunctions.php:91
+msgid "Subject:"
+msgstr "Μάθημα:"
+
+#: groupsFunctions.php:80
+msgid "Number of Groups:"
+msgstr "Αριθμός Ομάδων:"
+
+#: groupsFunctions.php:90
+msgid "Name of Groups (Prefix):"
+msgstr "Όνομα Ομάδων (Πρόθεμα):"
+
+#: groupsFunctions.php:95
+msgid "Counter Starτ:"
+msgstr "Αρχή Μετρητή:"
+
+#: groupsFunctions.php:217 groupsFunctions.php:224 subjectsFunctions.php:161
+#: subjectsFunctions.php:170
+msgid "Subject"
+msgstr "Μάθημα"
+
+#: holidaysFunctions.php:9
+msgid "Are you sure that you want to delete this Holiday?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την Αργία;"
+
+#: holidaysFunctions.php:10
+msgid "Holiday deleted successfully!"
+msgstr "Η Αργία διαγράφτηκε επιτυχώς!"
+
+#: holidaysFunctions.php:12
+msgid "Edit Holiday"
+msgstr "Επεξεργασία Αργίας"
+
+#: holidaysFunctions.php:14
+msgid "Holiday name is required. Please avoid using special characters."
+msgstr ""
+"Το όνομα Αργίας είναι υποχρεωτικό. Παρακαλώ αποφύγετε τους ειδικούς "
+"χαρακτήρες."
+
+#: holidaysFunctions.php:15
+msgid "Date is invalid."
+msgstr "Μη έγκυρη ημερομηνία!"
+
+#: holidaysFunctions.php:18
+msgid "Failed to add Holiday. Check if there is a Holiday at that date."
+msgstr ""
+"Αποτυχία εισαγωγής Αργίας. Ελέγξτε αν υπάρχει άλλη Αργία την ίδια ημερομηνία."
+
+#: holidaysFunctions.php:19
+msgid "Holiday successfully added!"
+msgstr "Η Αργία προστέθηκε επιτυχώς!"
+
+#: holidaysFunctions.php:20
+msgid "Holiday successfully edited!"
+msgstr "Η Αργία επεξεργάστηκε επιτυχώς!"
+
+#: holidaysFunctions.php:35
+msgid "Holiday name:"
+msgstr "Όνομα Αργίας:"
+
+#: holidaysFunctions.php:49
+msgid "Holidays of Year:"
+msgstr "Αργίες του Έτους:"
+
+#: holidaysFunctions.php:88 holidaysFunctions.php:95
+msgid "Holiday name"
+msgstr "Όνομα Αργίας"
+
+#: lecturesFunctions.php:9 lecturesFunctions.php:53
+msgid "Delete all Lectures for this Group?"
+msgstr "Διαγραφή όλων των Διδασκαλιών για αυτή την Ομάδα;"
+
+#: lecturesFunctions.php:10
+msgid "Lecture deleted successfully!"
+msgstr "Η Διδασκαλία διαγράφτηκε επιτυχώς!"
+
+#: lecturesFunctions.php:11
+msgid "Lectures deleted successfully!"
+msgstr "Οι Διδασκαλίες διαγράφτηκαν επιτυχώς!"
+
+#: lecturesFunctions.php:13
+msgid "Edit Lecture"
+msgstr "Επεξεργασία Διδασκαλίας"
+
+#: lecturesFunctions.php:15
+msgid "Please choose a Period."
+msgstr "Παρακαλώ επιλέξτε Περίοδο."
+
+#: lecturesFunctions.php:16
+msgid "Please choose a Subject."
+msgstr "Παρακαλώ επιλέξτε Μάθημα."
+
+#: lecturesFunctions.php:17
+msgid "Please choose a Group."
+msgstr "Παρακαλώ επιλέξτε Ομάδα."
+
+#: lecturesFunctions.php:18
+msgid "Please choose a Teacher."
+msgstr "Παρακαλώ επιλέξτε Καθηγητή."
+
+#: lecturesFunctions.php:19
+msgid "Please choose a Classroom."
+msgstr "Παρακαλώ επιλέξτε Αίθουσα."
+
+#: lecturesFunctions.php:27
+msgid ""
+"Failed to insert Lectures. Check if the Teacher, Classroom or Group is "
+"already used."
+msgstr ""
+"Αποτυχία εισαγωγής Διδασκαλιών. Ελέγξτε εάν ο Καθηγητής, η Αίθουσα ή η Ομάδα "
+"χρησιμοποιείται ήδη."
+
+#: lecturesFunctions.php:28
+msgid "Lectures added successfully!"
+msgstr "Οι Διδασκαλίες προστέθηκαν επιτυχώς!"
+
+#: lecturesFunctions.php:29
+msgid ""
+"Failed to update Lecture. Check if the Teacher, Classroom or Group is "
+"already used."
+msgstr ""
+"Αποτυχία επεξεργασίας της Διδασκαλίας. Ελέγξτε εάν ο Καθηγητής, η Αίθουσα ή "
+"η Ομάδα χρησιμοποιείται ήδη."
+
+#: lecturesFunctions.php:30
+msgid "Lecture edited successfully!"
+msgstr "Η Διδασκαλία επεξεργάστηκε επιτυχώς!"
+
+#: lecturesFunctions.php:79
+msgid "Curriculum Semester:"
+msgstr "Εξάμηνο Σπουδών:"
+
+#: lecturesFunctions.php:100
+msgid "Group:"
+msgstr "Ομάδα:"
+
+#: lecturesFunctions.php:109
+msgid "Teacher:"
+msgstr "Καθηγητής:"
+
+#: lecturesFunctions.php:155
+msgid "Number of weeks:"
+msgstr "Πλήθος Εβδομάδων:"
+
+#: lecturesFunctions.php:172
+msgid "Explanation of colors"
+msgstr "Επεξήγηση χρωμάτων"
+
+#: periodsFunctions.php:9
+msgid "Are you sure that you want to delete this period?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την Περίοδο;"
+
+#: periodsFunctions.php:10
+msgid "Period deleted successfully!"
+msgstr "Η Περίοδος διαγράφτηκε επιτυχώς!"
+
+#: periodsFunctions.php:11
+msgid "Failed to delete Period. Check if Period is connected with Groups."
+msgstr ""
+"Αποτυχία διαγραφής Περιόδου. Ελέγξτε εάν υπάρχουν καταχωρημένες Ομάδες αυτή "
+"την Περίοδο."
+
+#: periodsFunctions.php:13
+msgid "Edit Period"
+msgstr "Επεξεργασία Περιόδου"
+
+#: periodsFunctions.php:15
+msgid "Year field is out of limits."
+msgstr "Η χρονολογία είναι εκτός ορίων"
+
+#: periodsFunctions.php:16 subjectsFunctions.php:17
+msgid "Please choose a semester."
+msgstr "Παρακαλώ επιλέξτε Εξάμηνο."
+
+#: periodsFunctions.php:19
+msgid "Failed to add Period. Check if Period already exists."
+msgstr "Αποτυχία εισαγωγής Περιόδου. Ελέγξτε εάν η Περίοδος υπάρχει ήδη."
+
+#: periodsFunctions.php:20
+msgid "Period successfully added!"
+msgstr "Η Περίοδος προστέθηκε επιτυχώς!"
+
+#: periodsFunctions.php:21
+msgid "Failed to edit Period. Check if Period already exists."
+msgstr "Η επεξεργασία Περιόδου απέτυχε. Ελέγξτε εάν η Περίοδος υπάρχει ήδη."
+
+#: periodsFunctions.php:22
+msgid "Period successfully edited!"
+msgstr "Η Περίοδος επεξεργάστηκε επιτυχώς!"
+
+#: periodsFunctions.php:33
+msgid "Year:"
+msgstr "Έτος:"
+
+#: periodsFunctions.php:39
+msgid "Winter"
+msgstr "Χειμερινό"
+
+#: periodsFunctions.php:40
+msgid "Spring"
+msgstr "Εαρινό"
+
+#: periodsFunctions.php:68 periodsFunctions.php:75
+msgid "Year"
+msgstr "Έτος"
+
+#: subjectsFunctions.php:9
+msgid "Are you sure that you want to delete this Lecture?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την Διδασκαλία;"
+
+#: subjectsFunctions.php:10
+msgid "Subject deleted successfully!"
+msgstr "Το Μάθημα διαγράφτηκε επιτυχώς!"
+
+#: subjectsFunctions.php:11
+msgid "Failed to delete Subject. Check if Subject is connected with Groups."
+msgstr "Αποτυχία διαγραφής Μαθήματος. Ελέγξτε εάν συνδέεται με κάποια Ομάδα."
+
+#: subjectsFunctions.php:13
+msgid "Edit Subject"
+msgstr "Επεξεργασία Μαθήματος"
+
+#: subjectsFunctions.php:15
+msgid "Title field is required. Please avoid using special characters."
+msgstr ""
+"Το Όνομα του Μαθήματος είναι υποχρεωτικό, αποφύγετε τους ειδικούς χαρακτήρες!"
+
+#: subjectsFunctions.php:16
+msgid "Please choose a Subject type."
+msgstr "Παρακαλώ επιλέξτε τύπο Μαθήματος."
+
+#: subjectsFunctions.php:18
+msgid "Wrong color code."
+msgstr "Λάθος κωδικός χρώματος."
+
+#: subjectsFunctions.php:21
+msgid "Failed to add Subject. Check if Subject already exists."
+msgstr "Αποτυχία εισαγωγής Μαθήματος. Ελέγξτε εάν το Μάθημα υπάρχει ήδη."
+
+#: subjectsFunctions.php:22
+msgid "Subject successfully added!"
+msgstr "Το Μάθημα προστέθηκε επιτυχώς!"
+
+#: subjectsFunctions.php:23
+msgid "Failed to edit Subject. Check if Subject already exists."
+msgstr "Η επεξεργασία Μαθήματος απέτυχε. Ελέγξτε εάν το Μάθημα υπάρχει ήδη."
+
+#: subjectsFunctions.php:24
+msgid "Subject successfully edited!"
+msgstr "Το Μάθημα επεξεργάστηκε επιτυχώς!"
+
+#: subjectsFunctions.php:38
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: subjectsFunctions.php:42
+msgid "Type:"
+msgstr "Τύπος:"
+
+#: subjectsFunctions.php:45
+msgid "Theory"
+msgstr "Θεωρία"
+
+#: subjectsFunctions.php:46
+msgid "Lab"
+msgstr "Εργαστήριο"
+
+#: subjectsFunctions.php:47
+msgid "Practice Exercises"
+msgstr "Ασκήσεις Πράξης"
+
+#: subjectsFunctions.php:62
+msgid "Color:"
+msgstr "Χρώμα:"
+
+#: subjectsFunctions.php:72
+msgid "Select Semester:"
+msgstr "Επιλογή Εξαμήνου:"
+
+#: subjectsFunctions.php:164 subjectsFunctions.php:173
+msgid "Color"
+msgstr "Χρώμα"
+
+#: teachersFunctions.php:9
+msgid "Are you sure that you want to delete this record?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε την εγγραφή;"
+
+#: teachersFunctions.php:10
+msgid "Teacher deleted successfully!"
+msgstr "Ο Καθηγητής διαγράφτηκε επιτυχώς!"
+
+#: teachersFunctions.php:11
+msgid "Failed to delete Teacher. Check if Teacher is connected with a Lecture."
+msgstr ""
+"Αποτυχία διαγραφής Καθηγητή. Ελέγξτε εάν ο Καθηγητής είναι συνδεδεμένος με "
+"κάποια Διάλεξη."
+
+#: teachersFunctions.php:13
+msgid "Edit Teacher"
+msgstr "Επεξεργασία Καθηγητή"
+
+#: teachersFunctions.php:15
+msgid "Surname field is required. Please avoid using special characters."
+msgstr ""
+"Το Επώνυμο είναι υποχρεωτικό. Παρακαλώ αποφύγετε τους ειδικούς χαρακτήρες."
+
+#: teachersFunctions.php:16
+msgid "Please avoid using special characters at Name field."
+msgstr "Παρακαλώ αποφύγετε τους ειδικούς χαρακτήρες στο πεδίο Όνομα."
+
+#: teachersFunctions.php:19
+msgid "Failed to add Teacher. Check if the Teacher already exists."
+msgstr "Αποτυχία εισαγωγής Καθηγητή. Ελέγξτε εάν ο Καθηγητής υπάρχει ήδη."
+
+#: teachersFunctions.php:20
+msgid "Teacher successfully added!"
+msgstr "Ο Καθηγητής προστέθηκε επιτυχώς!"
+
+#: teachersFunctions.php:21
+msgid "Failed to edit Teacher. Check if the Teacher already exists."
+msgstr "Αποτυχία επεξεργασίας Καθηγητή. Ελέγξτε εάν ο Καθηγητής υπάρχει ήδη."
+
+#: teachersFunctions.php:22
+msgid "Teacher successfully edited!"
+msgstr "Ο Καθηγητής επεξεργάστηκε επιτυχώς!"
+
+#: teachersFunctions.php:34
+msgid "Surname:"
+msgstr "Επώνυμο:"
+
+#: teachersFunctions.php:37
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: teachersFunctions.php:69 teachersFunctions.php:77
+msgid "Surname"
+msgstr "Επώνυμο"
+
+#~ msgid ""
+#~ "<p>The general purpose shortcode is <strong>[utt_calendar]</strong> and "
+#~ "should be better placed in a page (or post) with substantial width. The "
+#~ "resulting calendar includes two filter combo-boxes for selecting "
+#~ "individual calendars for any of the semester, classroom, and teacher.</"
+#~ "p><p>In case that a fixed calendar is required, the sortcode can be "
+#~ "paired with parameters to define what exactly is required for display. "
+#~ "More specifically:</p><ul class='bullets'><li>[utt_calendar classroom = "
+#~ "&lt;comma separated classroomID list&gt;]   (without '<' and '>')</"
+#~ "li><li>[utt_calendar teacher = &lt;comma separated teacherID list&gt;]</"
+#~ "li><li>[utt_calendar semester = &lt;comma separated semester list&gt;]</"
+#~ "li></ul><p>Note that the filtered shortcodes generate a calendar without "
+#~ "the usual filter combo-boxes.</p>"
+#~ msgstr ""
+#~ "<p>Το shortcode γενικής χρήσης είναι το <strong>[utt_calendar]</strong> "
+#~ "και είναι κατάλληλο για να τοποθετηθεί σε μία σελίδα (ή post) με μεγάλο "
+#~ "μήκος. Το τελικό ημερολόγιο περιλαμβάνει δύο φίλτρα combo-box για επιλογή "
+#~ "μεμονομένων ημερολογίων για κάθε εξάμηνο, αίθουσα και καθηγητή.</p><p>Σε "
+#~ "περίπτωση που χρειάζεται κάποιο σταθερό ημερολόγιο, το shortcode μπορεί "
+#~ "να συνδυαστεί με παραμέτρους που ορίζουν τι ακριβός χρειάζεται να "
+#~ "εμφανιστεί. Πιο συγκεκριμένα:</p><ul class='bullets'><li>[utt_calendar "
+#~ "classroom = &lt;λίστα από ID αιθουσών διαχωρισμένη με κόμμα&gt;]   (χωρίς "
+#~ "'<' και '>')</li><li>[utt_calendar teacher = &lt;λίστα από ID καθηγητών "
+#~ "διαχωρισμένη με κόμμα&gt;]</li><li>[utt_calendar semester = &lt;λίστα από "
+#~ "εξάμηνα διαχωρισμένη με κόμμα&gt;]</li></ul><p>Σημειώστε ότι τα "
+#~ "φιλτραρισμένα shortcode παράγουν ένα ημερολόγιο χωρίς τα φίλτρα combo-box."
+#~ "</p>"
+
+#~ msgid ""
+#~ "<p>The general purpose shortcode is <strong>[utt_calendar]</strong> and "
+#~ "should be better placed in a page (or post) with substantial width. The "
+#~ "resulting calendar includes two filter combo-boxes for selecting "
+#~ "individual calendars for any of the semester, classroom, and teacher.</"
+#~ "p><p>In case that a fixed calendar is required, the sortcode can be "
+#~ "paired with parameters to define what exactly is required for display. "
+#~ "More specifically:</p><ul class='bullets'><li>[utt_calendar classroom = "
+#~ "&lt;comma separated classroomID list&gt;]   (without '<' and '>')</"
+#~ "li><li>[utt_calendar teacher = &lt;comma separated teacherID list&gt;]</"
+#~ "li><li>[utt_calendar semester = &lt;comma separated semesterID list&gt;]</"
+#~ "li></ul><p>Note that the filtered shortcodes generate a calendar without "
+#~ "the usual filter combo-boxes.</p>"
+#~ msgstr ""
+#~ "<p>Το shortcode γενικής χρήσης είναι το <strong>[utt_calendar]</strong> "
+#~ "και είναι κατάλληλο για να τοποθετηθεί σε μία σελίδα (ή post) με μεγάλο "
+#~ "μήκος. Το τελικό ημερολόγιο περιλαμβάνει δύο φίλτρα combo-box για επιλογή "
+#~ "μεμονομένων ημερολογίων για κάθε εξάμηνο, αίθουσα και καθηγητή.</p><p>Σε "
+#~ "περίπτωση που χρειάζεται κάποιο σταθερό ημερολόγιο, το shortcode μπορεί "
+#~ "να συνδυαστεί με παραμέτρους που ορίζουν τι ακριβός χρειάζεται να "
+#~ "εμφανιστεί. Πιο συγκεκριμένα:</p><ul class='bullets'><li>[utt_calendar "
+#~ "classroom = &lt;λίστα από ID αιθουσών διαχωρισμένη με κόμμα&gt;]   (χωρίς "
+#~ "'<' και '>')</li><li>[utt_calendar teacher = &lt;λίστα από ID καθηγητών "
+#~ "διαχωρισμένη με κόμμα&gt;]</li><li>[utt_calendar semester = &lt;λίστα από "
+#~ "εξάμηνα διαχωρισμένη με κόμμα&gt;]</li></ul><p>Σημειώστε ότι τα "
+#~ "φιλτραρισμένα shortcode παράγουν ένα ημερολόγιο χωρίς τα φίλτρα combo-box."
+#~ "</p>"
+
+#~ msgid "About UniTimetable"
+#~ msgstr "Πληροφορίες για το UniTimetable"
+
+#~ msgid ""
+#~ "UniTimetable is a Plugin made for Universities. This Plugin lets the user "
+#~ "insert data to the database(like subjects, teachers, classrooms, student "
+#~ "groups etc.) and finally use them to create lectures and events. The "
+#~ "final timetable can be published in a page using a shortcode. The "
+#~ "shortcode will show a calendar with all the events, lectures and holidays."
+#~ msgstr ""
+#~ "Το UniTimetable είναι ένα Plugin φτιαγμένο για Πανεπιστήμια-ΑΤΕΙ. Αυτό το "
+#~ "Plugin επιτρέπει στο χρήστη να εισάγει δεδομένα στην βάση δεδομένων(όπως "
+#~ "μαθήματα, καθηγητές, αίθουσες, ομάδες φοιτητών κ.α.) και τελικά να τα "
+#~ "χρησιμοποιήσει για να δημιουργήσει διδασκαλίες και συμβάντα. Το τελικό "
+#~ "πρόγραμμα μπορεί να δημοσιευτεί σε κάποια σελίδα χρησιμοποιώντας ένα "
+#~ "shortcode. Το shortcode θα εμφανίσει ένα ημερολόγιο με συμβάντα, "
+#~ "διδασκαλίες και αργίες."
+
+#~ msgid "How to use the Shortcode"
+#~ msgstr "Πως να χρησιμοποιήσετε το Shortcode"
+
+#~ msgid ""
+#~ "The general purpose Shortcode will show the calendar and two combo-boxes. "
+#~ "These combo-boxes let you filter the data shown in the calendar by "
+#~ "semester, classroom or teacher. Changing the combo boxes will load "
+#~ "automatically the data that match the filters. The usage is really "
+#~ "simple. Just write [utt_calendar] in the page content."
+#~ msgstr ""
+#~ "Το Shortcode γενικής χρήσης εμφανίζει το ημερολόγιο και δύο combo-box. "
+#~ "Αυτά τα combo-box σας επιτρέπουν να φιλτράρετε τα δεδομένα που "
+#~ "προβάλλονται  στο ημερολόγιο ανά εξάμηνο, αίθουσα ή καθηγητή. Αλλάζοντας "
+#~ "τις επιλογές στα combo-box φορτώνονται αυτόματα τα δεδομένα που "
+#~ "αντιστοιχούν στα φίλτρα. Η χρήση του είναι πολύ εύκολη. Απλά γράψτε "
+#~ "[utt_calendar] στο περιεχόμενο της σελίδας."
+
+#~ msgid ""
+#~ "Another way to show the calendar, is the already filtered version. If you "
+#~ "give a parameter to the shortcode, the data will be shown already "
+#~ "filtered for a specific semester, classroom or teacher. You can do this "
+#~ "by writing in the page content: [utt_calendar parameter=parameterID]. For "
+#~ "example you can show the timetable for the classroom with the ID=1 "
+#~ "writing [utt_calendar classroom=1]. Also you can show the timetable for "
+#~ "multiple classrooms. For example [utt_calendar classroom=1,2,3]. The same "
+#~ "way, like classroom, you can use the arrtibutes teacher and semester. "
+#~ "Notice: The filtered version does not show the combo-boxes."
+#~ msgstr ""
+#~ "Ένας άλλος τρόπος να εμφανίσετε το ημερολόγιο, είναι η φιλτραρισμένη "
+#~ "έκδοση. Αν δώσετε μια παράμετρο στο shortcode, τα δεδομένα θα εμφανιστούν "
+#~ "φιλτραρισμένα για ένα συγκεκριμένο εξάμηνο, αίθουσα ή καθηγητή. Αυτό "
+#~ "μπορείτε να το κάνετε γράφοντας στο περιεχόμενο της σελίδας: "
+#~ "[utt_calendar parameter=parameterID]. Για παράδειγμα, μπορείτε να "
+#~ "εμφανίσετε το πρόγραμμα για την αίθουσα με ID=1 γράφοντας [utt_calendar "
+#~ "classroom=1]. Επίσης μπορείτε να εμφανίσετε το πρόγραμμα για πολλές "
+#~ "αίθουσες. Για παράδειγμα [utt_calendar classroom=1,2,3]. Κατά τον ίδιο "
+#~ "τρόπο, όπως με τις αίθουσες, μπορείτε να χρησιμοποιήσετε τις παραμέτρους "
+#~ "teacher(για καθηγητή) και semester(για εξάμηνο. Σημείωση: Η φιλτραρισμένη "
+#~ "έκδοση δεν εμφανίζει τα combo-box."
+
+#~ msgid "Years:"
+#~ msgstr "Έτη:"
+
+#~ msgid "Name of Groups:"
+#~ msgstr "Όνομα Ομάδων:"
+
+#~ msgid "Prefix:"
+#~ msgstr "Πρόθεμα:"
+
+#~ msgid "Failed to edit Event. Check if Classroom is used"
+#~ msgstr ""
+#~ "Αποτυχία επεξεργασίας Συμβάντος. Ελέγξτε εάν η Αίθουσα χρησημοποιείται "
+#~ "ήδη."
+
+#~ msgid "Holiday added successfully!"
+#~ msgstr "Η Αργία προστέθηκε επιτυχώς!"
+
+#~ msgid "Holiday edited successfully!"
+#~ msgstr "Η Αργία επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Group edited successfully!"
+#~ msgstr "Η Ομάδα επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Counter Start"
+#~ msgstr "Αρχή Μετριτή"
+
+#~ msgid "Classroom added successfully!"
+#~ msgstr "Η Αίθουσα προστέθηκε επιτυχώς!"
+
+#~ msgid "Failed to add Classroom. Check if Classroom already exists"
+#~ msgstr "Αποτυχία εισαγωγής Αίθουσας. Ελέγξτε εάν η Αίθουσα υπάρχει ήδη."
+
+#~ msgid "Classroom edited successfully!"
+#~ msgstr "Η Αίθουσα επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Failed to edit Classroom. Check if Classroom already exists"
+#~ msgstr "Αποτυχία επεξεργασίας Αίθουσας. Ελέγξτε εάν η Αίθουσα υπάρχει ήδη."
+
+#~ msgid "Subject added successfully!"
+#~ msgstr "Το Μάθημα προστέθηκε επιτυχώς!"
+
+#~ msgid "Failed to add Subject. Check if Subject already exists"
+#~ msgstr "Αποτυχία εισαγωγής Μαθήματος. Ελέγξτε εάν το Μάθημα υπάρχει ήδη."
+
+#~ msgid "Subject edited successfully!"
+#~ msgstr "Το Μάθημα επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Failed to edit Subject. Check if Subject already exists"
+#~ msgstr "Αποτυχία επεξεργασίας Μαθήματος. Ελέγξτε εάν το Μάθημα υπάρχει ήδη."
+
+#~ msgid "Period added successfully!"
+#~ msgstr "Η Περίοδος προστέθηκε επιτυχώς!"
+
+#~ msgid "Failed to add Period. Check if Period already exists"
+#~ msgstr "Αποτυχία εισαγωγής Περιόδου. Ελέγξτε εάν η Περίοδος υπάρχει ήδη."
+
+#~ msgid "Period edited successfully!"
+#~ msgstr "Η Περίοδος επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Failed to edit Period. Check if Period already exists"
+#~ msgstr "Αποτυχία επεξεργασίας Περιόδου. Ελέγξτε εάν η Περίοδος υπάρχει ήδη."
+
+#~ msgid ""
+#~ "Failed to delete Classroom. Check if Classroom is used by a Lesson or "
+#~ "Event."
+#~ msgstr ""
+#~ "Αποτυχία διαγραφής Αίθουσας. Ελέγξτε αν αυτή η Αίθουσα χρησιμοποιείται "
+#~ "από κάποια Διδασκαλία ή Συμβάν."
+
+#~ msgid "Failed to delete Group. Check if Group is used by a Lesson."
+#~ msgstr ""
+#~ "Αποτυχία διαγραφής Ομάδας. Ελέγξτε εάν η Ομάδα χρησιμοποιείται σε κάποια "
+#~ "Διδασκαλία."
+
+#~ msgid "Are you sure that you want to delete this lesson?"
+#~ msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε αυτό το Μάθημα;"
+
+#~ msgid ""
+#~ "Failed to delete Teacher. Check if Teacher is connected with a Lesson."
+#~ msgstr ""
+#~ "Αποτυχία διαγραφής Καθηγητή. Ελέγξτε εάν συνδέεται με κάποια Διδασκαλία."
+
+#~ msgid ""
+#~ "Failed to insert Lectures. Check if the Teacher, Classroom or Group is "
+#~ "used."
+#~ msgstr ""
+#~ "Αποτυχία εισαγωγής Διδασκαλιών. Ελέγξτε εάν ο Καθηγητής, η Αίθουσα ή η "
+#~ "Ομάδα χρησιμοποιείται ήδη."
+
+#~ msgid "All."
+#~ msgstr "Όλες"
+
+#~ msgid "Edit Curriculum"
+#~ msgstr "Επεξεργασία Προγράμματος"
+
+#~ msgid "Curriculum"
+#~ msgstr "Πρόγραμμα"
+
+#~ msgid "Delete all Lessons for this Group?"
+#~ msgstr "Διαγραφή όλων των διδασκαλιών για αυτή την Ομάδα;"
+
+#~ msgid "Only this Lesson"
+#~ msgstr "Μόνο αυτή"
+
+#~ msgid "Lesson deleted successfully!"
+#~ msgstr "Η Διδασκαλία διαγράφτηκε επιτυχώς!"
+
+#~ msgid "Lessons deleted successfully!"
+#~ msgstr "Οι Διδασκαλίες διαγράφτηκαν επιτυχώς!"
+
+#~ msgid "Edit Lesson"
+#~ msgstr "Επεξεργασία Διδασκαλίας"
+
+#~ msgid "Insert Lesson"
+#~ msgstr "Εισαγωγή Διδασκαλίας"
+
+#~ msgid "Lessons added successfully!"
+#~ msgstr "Οι Διδασκαλίες προστέθηκαν επιτυχώς!"
+
+#~ msgid ""
+#~ "Failed to insert Lessons. Check if the Teacher, Classroom or Group is "
+#~ "used."
+#~ msgstr ""
+#~ "Αποτυχία εισαγωγής Διδασκαλιών. Ελέγξτε εάν κάποιος Καθηγητής, Αίθουσα ή "
+#~ "Ομάδα χρησημοποιείται ήδη."
+
+#~ msgid ""
+#~ "Failed to update Lesson. Check if the Teacher, Classroom or Group is used."
+#~ msgstr ""
+#~ "Η επεξεργασία Διδασκαλίας απέτυχε. Ελέγξτε εάν κάποιος Καθηγητής, Αίθουσα "
+#~ "ή Ομάδα χρησημοποιείται ήδη."
+
+#~ msgid "Lesson edited successfully!"
+#~ msgstr "Η Διδασκαλία επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Failed to add Teacher. Check if the Teacher already exists"
+#~ msgstr "Αποτυχία εισαγωγής Καθηγητή. Ελέγξτε εάν ο Καθηγητής υπάρχει ήδη. "
+
+#~ msgid "T."
+#~ msgstr "Θ."
+
+#~ msgid "L."
+#~ msgstr "Ε."
+
+#~ msgid "P.E."
+#~ msgstr "Α.Π."
+
+#~ msgid "Summer"
+#~ msgstr "Εαρινό"
+
+#~ msgid ""
+#~ "Surname field is required. Please avoid using special characters and "
+#~ "numbers."
+#~ msgstr ""
+#~ "Το πεδίο Επώνυμο είναι υποχρεωτικό. Παρακαλώ αποφύγετε τους ειδικούς "
+#~ "χαρακτήρες και τους αριθμούς."
+
+#~ msgid "Please avoid using special characters and numbers at Name field."
+#~ msgstr ""
+#~ "Παρακαλώ αποφύγετε τους ειδικούς χαρακτήρες και τους αριθμούς στο πεδίο "
+#~ "Όνομα."
+
+#~ msgid "Number of weeks"
+#~ msgstr "Αριθμός Εβδομάδων:"
+
+#~ msgid "Event edited successfully"
+#~ msgstr "Το Συμβάν επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Event title"
+#~ msgstr "Τίτλος Συμβάντος:"
+
+#~ msgid "Event description"
+#~ msgstr "Περιγραφή Συμβάντος:"
+
+#~ msgid "Select Period:"
+#~ msgstr "Επιλογή περιόδου:"
+
+#~ msgid ""
+#~ "Failed to edit Group. Check if there is another group with the same "
+#~ "attributes."
+#~ msgstr ""
+#~ "Η επεξεργασία Ομάδας απέτυχε, ελέγξτε εάν υπάρχει ήδη ομάδα με τα ίδια "
+#~ "χαρακτηριστικά."
+
+#~ msgid "Classroom name"
+#~ msgstr "Όνομα Αίθουσας"
+
+#~ msgid "Period edited successfully"
+#~ msgstr "Η Περίοδος επεξεργάστηκε επιτυχώς!"
+
+#~ msgid "Period added successfully"
+#~ msgstr "Η Περίοδος προστέθηκε επιτυχώς!"

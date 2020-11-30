@@ -1,0 +1,33 @@
+<?php
+$colors = array();
+$colors[0][0] = "#0066FF";
+$colors[0][1] = "#5C93E6";
+$colors[0][2] = "#5CB8E6";
+$colors[1][0] = "#00B88A";
+$colors[1][1] = "#5CCAAF";
+$colors[1][2] = "#B2F0E0";
+$colors[2][0] = "#00CC00";
+$colors[2][1] = "#00FF00";
+$colors[2][2] = "#66FF66";
+$colors[3][0] = "#FFFF00";
+$colors[3][1] = "#FFFF4D";
+$colors[3][2] = "#FFFF94";
+$colors[4][0] = "#FF0000";
+$colors[4][1] = "#FF5050";
+$colors[4][2] = "#FF6666";
+$colors[5][0] = "#FF0066";
+$colors[5][1] = "#FF3399";
+$colors[5][2] = "#FF6699";
+$colors[6][0] = "#CC00FF";
+$colors[6][1] = "#CC66FF";
+$colors[6][2] = "#CC99FF";
+$colors[7][0] = "#A3A375";
+$colors[7][1] = "#B5B591";
+$colors[7][2] = "#CBCBB2";
+$colors[8][0] = "#FF9900";
+$colors[8][1] = "#FFB84D";
+$colors[8][2] = "#FFCD82";
+$colors[9][0] = "#CC6600";
+$colors[9][1] = "#D68533";
+$colors[9][2] = "#DE9D5C";
+?>
